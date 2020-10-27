@@ -53,6 +53,7 @@ board = [" "," "," "," "," "," "," "," "," "]
       turn(board)
     else
       move(board, index)
+      display_board()
     end
   end 
   
