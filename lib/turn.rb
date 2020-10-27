@@ -41,6 +41,7 @@ board = [" "," "," "," "," "," "," "," "," "]
   end
   
   
+  def move(position, character)
   
   
   
