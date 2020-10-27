@@ -52,7 +52,7 @@ board = [" "," "," "," "," "," "," "," "," "]
     if valid_move?(board, index) == false
       turn(board)
     else
-      move(board, position)
+      move(board, index)
     end
   end 
   
